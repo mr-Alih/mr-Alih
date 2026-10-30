@@ -15,7 +15,8 @@ Currently studying HBO ICT and expanding my knowledge through personal projects 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) GIT: I already have some understanding in pushing and pulling. Main workflow is done that way.
 
 ### Github stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-Alih&show_icons=true&theme=github_dark&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=mr-Alih&layout=donut&langs_count=5&theme=swift)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-Alih&layout=compact&theme=github_dark&hide_border=true)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode)](https://skillicons.dev)
 
 ## **Current Focus**
 Improving my Python skills and developing more advanced applications.
